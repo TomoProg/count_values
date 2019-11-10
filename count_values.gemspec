@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Counts all the values of an array.}
   spec.description   = %q{Counts all the values of an array.}
-  spec.homepage      = "https://github.com/TomoProg/count_values."
+  spec.homepage      = "https://github.com/TomoProg/count_values"
   spec.license       = "MIT"
 
   # Specify which files should be added to the gem when it is released.
